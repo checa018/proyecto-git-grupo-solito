@@ -1,7 +1,7 @@
 # Sistema de Cafetería - Proyecto Individual
 
 ## Integrantes
-- Tu Nombre y Apellido (Integrante A, B y C)
+- MArco Antonio Checa Mamani(Integrante A, B y C)
 
 ## Descripción
 Proyecto práctico para simular el flujo de trabajo colaborativo con Git y GitHub en un sitio web de una cafetería.
