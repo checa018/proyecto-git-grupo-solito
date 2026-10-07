@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Sistema de Cafetería</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Cafetería Central</h1>
+    <nav>
+      <ul>
+        <li><a href="#inicio">Inicio</a></li>
+        <li><a href="#menu">Menú</a></li>
+        <li><a href="#contacto">Contacto</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="inicio">
+      <h2>Inicio</h2>
+      <p>Bienvenidos a nuestra cafetería.</p>
+    </section>
+
+    <section id="menu">
+      <h2>Menú</h2>
+      <p>Conoce nuestras opciones de cafés y postres.</p>
+    </section>
+
+    <section id="contacto">
+      <h2>Reservas</h2>
+      <form id="form-contacto">
+        <input type="text" id="nombre" placeholder="Tu Nombre" required>
+        <button type="submit">Reservar</button>
+      </form>
+      <p id="mensaje"></p>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
